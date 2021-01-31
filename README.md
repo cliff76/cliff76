@@ -1,6 +1,10 @@
 ### Hi 👋, I'm Cliff
 A fool stack developer coming at'cha with a short stack and some syrup. iHop with my hips but it's not really hip-hop. If you don't know, now you know. (Try to follow if you're slow.)
 
+The best code I've ever written was this here
+`let array = ['hip', 'hip'];`
+(some folks will get it, others...)
+
 - 🔭 I’m currently working on everybody's nerves ...
 - 🌱 I’m currently learning not to be annoying ...
 - 👯 I’m looking to collaborate on anything worth collaborating on ...
