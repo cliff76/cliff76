@@ -15,4 +15,7 @@ The best code I've ever written was this here
 - ⚡ Fun fact: You know something I don't know ...
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
